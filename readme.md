@@ -24,6 +24,8 @@ A simple Todo App built using HTML, CSS, and JavaScript.
 2. Open the project folder.
 3. Open index.html in your browser.
 
+GitHub Pages Test
+
 ## Author
 
 Soni
